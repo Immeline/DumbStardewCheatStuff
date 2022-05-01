@@ -1,0 +1,10 @@
+{
+  "Name": "Dumb Cheats",
+  "Author": "Immeline",
+  "Version": "1.0.0",
+  "Description": "dumb",
+  "UniqueID": "immeline.dumbCheats",
+  "EntryDll": "immelineDumb.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
